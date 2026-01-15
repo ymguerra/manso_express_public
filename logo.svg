@@ -1,0 +1,39 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyB" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="70" cy="70" r="66" fill="url(#skyB)"/>
+  
+  <!-- Sun -->
+  <circle cx="105" cy="28" r="12" fill="#fbbf24" opacity="0.9"/>
+  <!-- Mountains -->
+  <path d="M4 72 L30 45 L50 58 L75 35 L100 52 L130 42 L136 72 L4 72 Z" fill="#065f46" opacity="0.6"/>
+  <path d="M4 72 L25 55 L55 72 L85 50 L136 70 L136 88 L4 88 Z" fill="#047857" opacity="0.7"/>
+  <!-- Palm tree -->
+  <path d="M20 88 L24 52 L28 88" fill="#854d0e"/>
+  <path d="M8 48 Q24 58 24 50 Q28 40 38 45" fill="#16a34a"/>
+  <path d="M12 40 Q24 52 24 45 Q30 34 38 40" fill="#22c55e"/>
+  <path d="M24 50 Q35 40 42 48" fill="#16a34a"/>
+  
+  <!-- Taxi with package -->
+  <rect x="48" y="58" width="48" height="22" rx="5" fill="white"/>
+  <rect x="54" y="48" width="34" height="13" rx="4" fill="white"/>
+  <rect x="58" y="51" width="10" height="8" rx="1" fill="#06b6d4"/>
+  <rect x="71" y="51" width="14" height="8" rx="1" fill="#06b6d4"/>
+  <circle cx="58" cy="80" r="5" fill="#1e293b"/>
+  <circle cx="86" cy="80" r="5" fill="#1e293b"/>
+  <rect x="68" y="42" width="12" height="5" rx="2" fill="#fbbf24"/>
+  
+  <!-- Package box on car -->
+  <rect x="82" y="38" width="14" height="12" rx="2" fill="#f97316"/>
+  <path d="M82 44 L96 44" stroke="white" stroke-width="1.5"/>
+  <path d="M89 38 L89 50" stroke="white" stroke-width="1.5"/>
+  
+  <!-- Banner -->
+  <path d="M10 98 L130 98 L130 132 Q70 146 10 132 Z" fill="#0f766e"/>
+  <text x="70" y="114" font-size="12" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">MANSO</text>
+  <text x="70" y="126" font-size="9" fill="#fbbf24" text-anchor="middle" font-family="Arial" font-weight="bold">EXPRESS</text>
+</svg>
